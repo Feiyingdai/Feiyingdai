@@ -1,9 +1,10 @@
 <h2 align="center">Hi there, I'm Feiying Dai 👋</h2>
 
 <p align="center">
-  🌐 Bridging the gap between <b>Data Science</b> and <b>Business</b>
-  🎓 Dual Master's in Data Science & Business | 📊 Quantitative & Strategic Thinker <br>
+  🌐 <b>Bridging the gap between Data Science and Business</b> <br>
+  🎓 Dual Master's in Data Science & Business &nbsp;|&nbsp; 📊 Quantitative & Strategic Thinker
 </p>
+
 
 ---
 
