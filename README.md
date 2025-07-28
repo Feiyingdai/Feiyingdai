@@ -13,7 +13,7 @@
 - 📍 Based in the US | Open to on-site, remote & hybrid opportunities
 - 💻 Experienced in  **risk predictive modeling**, **financial data analytics**, **marketing analytics**
 - 💡 Passionate about turning messy data into actionable insights that drive real-world impact
-- 🧰 Skilled in **Python, SQL, Tableau**
+- 🧰 Skilled in **Python, SQL, Tableau, cloud platforms (AWS)
 - 🤝 Adept at communicating technical concepts to non-technical stakeholders
 - 🚀 I’m always looking for challenging problems to solve with data. Let’s connect!
 
@@ -35,11 +35,12 @@
 
 ### 🧪 Recent Projects
 
-- 🔍 **Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**  
-  Developed an XGBoost model leveraging domain-specific features from driver demographics, driving behavior, vehicle attributes for car insurance claim prediction.
+- 🔍 **Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**
+  
+  - Developed an XGBoost model leveraging domain-specific features from driver demographics, driving behavior, vehicle attributes for car insurance claim prediction.
 
 - 📊 **Yelp Datasets: Using Sentiment & Social Networks Analysis**
-   Presents a comprehensive analysis of the Yelp Open Dataset by using Natural Language Processing (NLP), Social Network Analysis (SNA), and Geospatial Visualization to uncover insights from user reviews, social connections, and physical locations.
+  - Presents a comprehensive analysis of the Yelp Open Dataset by using Natural Language Processing (NLP), Social Network Analysis (SNA), and Geospatial Visualization to uncover insights from user reviews, social connections, and physical locations.
 
 ---
 
