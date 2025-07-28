@@ -10,7 +10,7 @@
 ### 💼 About Me
 
 - 📍 Based in the US | Open to remote & hybrid opportunities
-- 💻 Background in **data analytics**, **predictive modeling**, and **financial data analytics**
+- 💻 Background in  **predictive modeling**, **data analytics**
 - 🧠 Love using data to uncover insights and drive smarter decisions
 - 📈 Experienced in developing models, dashboards, and analytics pipelines using **Python, SQL, and Tableau**
 
@@ -32,15 +32,11 @@
 
 ### 🧪 Recent Projects
 
-- 🔍 **Risk Segmentation for Resource Allocation @ EchoPlus AI**  
+- 🔍 **Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**  
   Developed an XGBoost model leveraging domain-specific features from driver demographics, driving behavior, vehicle attributes for car insurance claim prediction.
 
-- 📊 **Ad Performance Optimization @ Ateema Media & Marketing**  
-
-  Conducted digital campaign performance prediction model，increased CTR by **10%** and improved ad spend efficiency.
-
-- 💰 **Bond Rating Automation as Senior Financial Analyst**  
-  Automated economic and financial data processing with Python and built custom rating models. Created Tableau dashboards for interactive investment performance tracking.
+- 📊 **Yelp Datasets: Using Sentiment & Social Networks Analysis**
+   Presents a comprehensive analysis of the Yelp Open Dataset by using Natural Language Processing (NLP), Social Network Analysis (SNA), and Geospatial Visualization to uncover insights from user reviews, social connections, and physical locations.
 
 ---
 
