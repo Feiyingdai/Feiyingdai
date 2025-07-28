@@ -9,10 +9,12 @@
 
 ### 💼 About Me
 
-- 📍 Based in the US | Open to remote & hybrid opportunities
-- 💻 Background in  **predictive modeling**, **data analytics**
-- 🧠 Love using data to uncover insights and drive smarter decisions
-- 📈 Experienced in developing models, dashboards, and analytics pipelines using **Python, SQL, and Tableau**
+- 📍 Based in the US | Open to on-site, remote & hybrid opportunities
+- 💻 Experienced in  **risk predictive modeling**, **financial data analytics**, **marketing analytics**
+- 💡 Passionate about turning messy data into actionable insights that drive real-world impact
+- 🧰 Skilled in **Python, SQL, Tableau**
+- 🤝 Adept at communicating technical concepts to non-technical stakeholders
+- 🚀 I’m always looking for challenging problems to solve with data. Let’s connect!
 
 ---
 
@@ -42,7 +44,7 @@
 
 ### 🌱 Currently Learning
 
-- 🔄 Distributed data processing with **PySpark & AWS EMR**
+- 🔄 Distributed data processing with **PySpark & AWS**
 - 🧠 Advanced modeling & real-time pipelines
 - ☁️ Tools like **Snowflake**, **Databricks**, **dbt**, and **MLFlow**
 
