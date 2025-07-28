@@ -2,7 +2,6 @@
 
 <p align="center">
   🌐 Bridging the gap between <b>Data Science</b> and <b>Business</b>
-  
   🎓 Dual Master's in Data Science & Business | 📊 Quantitative & Strategic Thinker <br>
 </p>
 
