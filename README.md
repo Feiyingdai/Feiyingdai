@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Feiying Dai 👋</h2>
 
 <p align="center">
-  🌐 Bridging the worlds of <b>Data Science</b> and <b>Finance</b> <br>
+  🌐 Bridging the gap of <b>Data Science</b> and <b>Finance</b> <br>
   🎓 Dual Master's in Data Science & Business | 📊 Quantitative & Strategic Thinker <br>
 </p>
 
