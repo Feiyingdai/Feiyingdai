@@ -35,11 +35,11 @@
 
 ### 🧪 Recent Projects
 
-- 🔍 **Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**
+- 🔍 [**Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**](https://github.com/Feiyingdai/Car-Insurance-Claim-Prediction)
   
   - Developed an XGBoost model leveraging domain-specific features from driver demographics, driving behavior, vehicle attributes for car insurance claim prediction.
 
-- 📊 **Yelp Datasets: Using Sentiment & Social Networks Analysis**
+- 📊 [**Yelp Datasets: Using Sentiment & Social Networks Analysis**](https://github.com/Feiyingdai/nlp-sna-yelp-analysis)
   - Presents a comprehensive analysis of the Yelp Open Dataset by using Natural Language Processing (NLP), Social Network Analysis (SNA), and Geospatial Visualization to uncover insights from user reviews, social connections, and physical locations.
 
 ---
