@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Feiying Dai 👋</h2>
 
 <p align="center">
-  🌐 <b>Bridging the gap between Data Science and Business</b> <br>
+  🌐 <b>Bridging the gap between Data Science and Business Insight</b> <br>
   🎓 Dual Master's in Data Science & Business &nbsp;|&nbsp; 📊 Quantitative & Strategic Thinker
 </p>
 
@@ -11,7 +11,7 @@
 ### 💼 About Me
 
 - 📍 Based in the US | Open to on-site, remote & hybrid opportunities
-- 💻 Experienced in  **risk predictive modeling**, **financial data analytics**, **marketing analytics**
+- 💻 Experienced in  **risk predictive modeling**, **financial data analytics**, **marketing analytics, and apply AI platforms for production**
 - 💡 Passionate about turning messy data into actionable insights that drive real-world impact
 - 🧰 Skilled in **Python, SQL, Tableau, cloud platforms (AWS)**
 - 🤝 Adept at communicating technical concepts to non-technical stakeholders
