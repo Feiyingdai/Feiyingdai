@@ -54,7 +54,7 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/feiying-dai/)
 - 📧 fannydai98@gmail.com  
 - 😄 Pronouns: she/her  
 
