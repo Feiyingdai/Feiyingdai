@@ -33,14 +33,54 @@
 
 ---
 
-### 🧪 Recent Projects
+### 🧪 Projects Overview
 
-- 🔍 [**Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**](https://github.com/Feiyingdai/Car-Insurance-Claim-Prediction)
+| Project   Topic                                          | Skills & Tools                                                                   |
+|----------------------------------------------------------|-------------------------------------------------------|
+| Car Insurance Claim Prediction with XGBoost              | Borderline Smote, Feature Engineering, XGBoost for Classification                |
+| Yelp Datasets: Using Sentiment & Social Networks Analysis| Geospatial Mapping, NLP(NLTK, AFINN, VADER, Word Cloud),Social Networks Analysis |        |
+
+### 🚗 [**Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**](https://github.com/Feiyingdai/Car-Insurance-Claim-Prediction)
+
+This project develops an XGBoost-based predictive model to identify high-risk drivers who are likely to file car insurance claims. The model leverages domain-specific features from driver demographics, vehicle details, regional conditions, and driving behavior.
+
+#### 🎯 Objectives:
+Predict whether a driver will make a claim (binary classification), enabling data-driven risk stratification and personalized insurance management.
+
+#### 💼 Business Applications:
+
+💰 Risk-based Premium Adjustment
+Adjust insurance pricing based on predicted claim probabilities
+
+🛡️ Tailored Underwriting Rules
+Define acceptance thresholds or policy conditions based on risk profiles
+
+🚘 Proactive Behavioral Interventions
+Identify high-risk drivers early and offer training, incentives, or personalized feedback to reduce claim likelihood
+
+---
+
+### 🍽️ [**Yelp Datasets: Using Sentiment & Social Networks Analysis**](https://github.com/Feiyingdai/nlp-sna-yelp-analysis)
+
+This project combines Natural Language Processing (NLP), Social Network Analysis (SNA), and geospatial visualization to uncover business and user insights from the Yelp Open Dataset.
+
+#### 🎯 Objectives
+- Understand **business characteristics**, **user behavior**, and **review sentiment** across cities
+- Visualize **spatial distributions** of businesses and **highly active users’ movement patterns**
+- Detect **user communities** and **influencers** using network structure
+- Identify **key themes and sentiments** in positive and negative reviews
   
-  - Developed an XGBoost model leveraging domain-specific features from driver demographics, driving behavior, vehicle attributes for car insurance claim prediction.
-
-- 📊 [**Yelp Datasets: Using Sentiment & Social Networks Analysis**](https://github.com/Feiyingdai/nlp-sna-yelp-analysis)
-  - Presents a comprehensive analysis of the Yelp Open Dataset by using Natural Language Processing (NLP), Social Network Analysis (SNA), and Geospatial Visualization to uncover insights from user reviews, social connections, and physical locations.
+#### 💼 Business Applications:
+- **Business Owners:**
+  - Optimize Based on Sentiment Feedback
+  - Prioritize Service Quality
+  - Track Keyword & Bigram Trends
+  - Use Influencer Nodes for Brand Promotion**
+  
+- **Yelp Platform:**
+  - Enhance User Retention through Social Engagement
+  - Empower Influencers and Active Users
+  - Leverage Community Detection for Personalization
 
 ---
 
